@@ -10,7 +10,7 @@ public class BasicApplicationTests  {
 
     @Test
     void contextLoads() {
-       String message = "Default Message Cambio 13";
+       String message = "DCambio";
         assertNotNull(message);
     }
 }
